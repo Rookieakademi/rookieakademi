@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rookie Akademi Spor Kulübü</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Rookie Akademi Spor Kulübü</h1>
+    <nav>
+      <a href="#hakkimizda">Biz Kimiz?</a>
+      <a href="#branslar">Branşlarımız</a>
+      <a href="#kayit">Kayıt</a>
+      <a href="#iletisim">İletişim</a>
+    </nav>
+  </header>
+
+  <section id="hakkimizda">
+    <h2>Biz Kimiz?</h2>
+    <p>Rookie Akademi, Maltepe merkezli bir spor kulübüdür. Basketbol, voleybol ve cimnastik branşlarında faaliyet gösterir. Genç sporcuların gelişimine odaklıdır.</p>
+  </section>
+
+  <section id="branslar">
+    <h2>Branşlarımız</h2>
+    <ul>
+      <li>🏀 Basketbol</li>
+      <li>🏐 Voleybol</li>
+      <li>🤸‍♀️ Cimnastik</li>
+    </ul>
+  </section>
+
+  <section id="kayit">
+    <h2>Kayıt</h2>
+    <p><a href="https://forms.gle/..." target="_blank">Buradan kayıt formuna ulaşabilirsiniz</a></p>
+  </section>
+
+  <section id="iletisim">
+    <h2>İletişim</h2>
+    <p>📍 Cevizli Mah. Kırklareli Sok. No:9/138, Maltepe</p>
+    <p>📞 Telefon: 05xx xxx xx xx</p>
+    <p>📧 E-Posta: info@rookieakademi.com</p>
+    <p>📷 Instagram: <a href="https://instagram.com/rookieakademi" target="_blank">@rookieakademi</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Rookie Akademi Spor Kulübü</p>
+  </footer>
+</body>
+</html>
