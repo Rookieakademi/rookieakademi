@@ -19,7 +19,7 @@
 
   <section id="hakkimizda">
     <h2>Biz Kimiz?</h2>
-    <p>Rookie Akademi, Maltepe merkezli bir spor kulübüdür. Basketbol, voleybol ve cimnastik branşlarında faaliyet gösterir. Genç sporcuların gelişimine odaklıdır.</p>
+    <p>Rookie Akademi, Basketbol, voleybol ve cimnastik branşlarında faaliyet gösterir. Genç sporcuların gelişimine odaklıdır.</p>
   </section>
 
   <section id="branslar">
